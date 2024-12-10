@@ -1,0 +1,6 @@
+-o "s.txt"
+-l rsp
+-s "C:\Users\The user\Desktop\bundleCommand\fib"
+-t type
+-r
+-a "shifir ros"

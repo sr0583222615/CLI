@@ -1,0 +1,6 @@
+--source C:\Users\The user\Desktop\bundleCommand\fib
+--output dddd.txt
+--languages dll,json
+--author "shifra"
+--include-source-comments
+--remove-empty-lines

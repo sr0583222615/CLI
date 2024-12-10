@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fib", "fib\fib.csproj", "{FC39A564-4D57-41FA-93D3-F9F0978C44A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC39A564-4D57-41FA-93D3-F9F0978C44A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC39A564-4D57-41FA-93D3-F9F0978C44A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC39A564-4D57-41FA-93D3-F9F0978C44A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC39A564-4D57-41FA-93D3-F9F0978C44A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9191EAA-FDE4-42F8-8D38-546319B33F78}
+	EndGlobalSection
+EndGlobal
